@@ -1,0 +1,222 @@
+﻿mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Aplicación iniciada
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Archivo abierto: etc-passwd.txt
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: root
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: amalia
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: linoadmin
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: franja
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: franja
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: amalia
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: david
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: linoadmin
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: tom
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: Esta línea es errónea
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: usuario1
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: pepe
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: franja
+
+mar 21, 2022 8:11:49 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Aplicación finalizada
+
+
+
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Aplicación iniciada
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Archivo abierto: etc-passwd.txt
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: root
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: amalia
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: linoadmin
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: franja
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: franja
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: amalia
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: david
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: linoadmin
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: tom
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: Esta línea es errónea
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: usuario1
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: pepe
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: franja
+
+mar 21, 2022 8:15:15 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Aplicación finalizada
+
+
+
+
+mar 21, 2022 8:17:16 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Aplicación iniciada
+
+mar 21, 2022 8:17:16 PM ejercicio2.Log registrarEvento
+GRAVE: Error de E/S en 
+
+mar 21, 2022 8:17:16 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Aplicación finalizada
+
+
+
+
+mar 31, 2022 9:55:46 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Aplicación iniciada
+
+mar 31, 2022 9:55:46 PM ejercicio2.Log registrarEvento
+GRAVE: Error de E/S en 
+
+mar 31, 2022 9:55:46 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Aplicación finalizada
+
+
+
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Aplicación iniciada
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Archivo abierto: etc-passwd.txt
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: root
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: amalia
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: linoadmin
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: franja
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: franja
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: amalia
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: david
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: linoadmin
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: tom
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: Esta línea es errónea
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: 
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: usuario1
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+ADVERTENCIA: Cuenta de usuario NO válida. Línea rechazada: pepe
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Cuenta de usuario válida. Línea aceptada: franja
+
+mar 31, 2022 9:56:06 PM ejercicio2.Log registrarEvento
+INFORMACIÓN: Aplicación finalizada
+
+
+
+
